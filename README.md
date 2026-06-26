@@ -1,4 +1,4 @@
-# Financial Transaction Analytics Platform
+## Financial Transaction Analytics Platform
 
 ## Project Type
 
@@ -10,7 +10,7 @@
 
 ---
 
-# Project Overview
+## Project Overview
 
 The Financial Transaction Analytics Platform is a data-driven customer intelligence solution designed to analyze large-scale banking transaction data and uncover customer behavior patterns, spending trends, revenue opportunities, and predictive business insights.
 
@@ -20,7 +20,7 @@ This project demonstrates an end-to-end analytics workflow covering data enginee
 
 ---
 
-# Why This Project Matters
+## Why This Project Matters
 
 Financial institutions generate millions of transactions daily. However, much of this data remains underutilized due to fragmented reporting systems and limited customer intelligence capabilities.
 
@@ -36,7 +36,7 @@ This project demonstrates how machine learning and advanced analytics can conver
 
 ---
 
-# Business Problem
+## Business Problem
 
 Traditional reporting systems provide historical views of customer activity but often fail to identify future opportunities and behavioral trends.
 
@@ -53,7 +53,7 @@ Without advanced analytics, organizations risk losing opportunities for growth, 
 
 ---
 
-# Solution
+## Solution
 
 Developed an end-to-end financial analytics platform leveraging customer, transaction, product, and engagement data to generate business intelligence and predictive insights.
 
@@ -72,7 +72,7 @@ Interactive Tableau dashboards were created to provide stakeholders with real-ti
 
 ---
 
-# Solution Architecture
+## Solution Architecture
 
 ```text
 Customer Data
@@ -109,7 +109,7 @@ Business Decision Making
 
 ---
 
-# Data Science Workflow
+## Data Science Workflow
 
 ### 1. Data Collection
 
@@ -156,7 +156,7 @@ Business Decision Making
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ### Data & Analytics
 
@@ -186,7 +186,7 @@ Business Decision Making
 
 ---
 
-# Models & Frameworks
+## Models & Frameworks
 
 * Random Forest
 * Gradient Boosting
@@ -201,7 +201,7 @@ Business Decision Making
 
 ---
 
-# Key Features
+## Key Features
 
 * Customer Behavior Analytics
 * Financial Transaction Intelligence
@@ -216,7 +216,7 @@ Business Decision Making
 
 ---
 
-# Results & Evaluation
+## Results & Evaluation
 
 ## Data Scale
 
@@ -240,7 +240,7 @@ Business Decision Making
 
 ---
 
-# Sample Insights Generated
+## Sample Insights Generated
 
 * Top 15% of customers contributed more than 60% of transaction value.
 * High-frequency customers demonstrated significantly higher product adoption rates.
@@ -250,7 +250,7 @@ Business Decision Making
 
 ---
 
-# Business Impact
+## Business Impact
 
 * Improved customer intelligence capabilities
 * Enhanced personalization and targeting strategies
@@ -261,7 +261,7 @@ Business Decision Making
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 ### Analytics
 
@@ -300,6 +300,6 @@ Business Decision Making
 
 ---
 
-# Keywords
+## Keywords
 
 Financial Analytics, Banking Analytics, Transaction Analytics, Customer Intelligence, Customer Segmentation, Machine Learning, Predictive Analytics, Business Intelligence, Tableau, SQL, Python, Data Science, Revenue Analytics, Customer Behavior Analysis, Financial Services Analytics
